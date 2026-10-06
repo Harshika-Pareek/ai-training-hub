@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+gradio
+google-genai
+sentence-transformers
+jupyter
