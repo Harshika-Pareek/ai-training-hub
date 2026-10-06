@@ -1,6 +1,6 @@
 # 01 · From Data to AI: Building the Foundation for Intelligent Business
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GITHUB_USER/ai-training-hub/blob/main/courses/01-from-data-to-ai/From_Data_to_AI_NovaBank.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harshika-Pareek/ai-training-hub/blob/main/courses/01-from-data-to-ai/From_Data_to_AI_NovaBank.ipynb)
 
 **Course promise:** turn messy financial data into a trustworthy AI assistant, and prove that it works.
 
